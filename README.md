@@ -1,6 +1,6 @@
 # Enterprise Network Design & Simulation
 
-![Project Topology](Documentation/Project Topology.png)
+![Project Topology](Documentation/Project%20Topology.png)
 
 ## 📌 Project Overview
 This project involves the design and simulation of a complex enterprise network using **Cisco Packet Tracer 8.2.2**. The topology integrates multiple routing protocols, advanced security measures, and efficient IP addressing strategies to simulate a real-world wide area network (WAN).
